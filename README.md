@@ -85,8 +85,8 @@
 
   <section id="contact">
     <h2>Contact Us</h2>
-    <p><strong>Address:</strong> 123 Revival Street, City, Country</p>
-    <p><strong>Phone:</strong> +XXX XXX XXX</p>
+    <p><strong>Address:</strong> Kapsoya - Ngurunga Estate, Eldoret, Kenya</p>
+    <p><strong>Phone:</strong> +254 101679208</p>
     <p><strong>Email:</strong> info@revivalcovenant.org</p>
     <div class="map-container">
       <iframe
@@ -99,7 +99,7 @@
   <section id="donate">
     <h2>Give / Donate</h2>
     <p>Your generosity helps us spread the Gospel and support communities in need.</p>
-    <p><strong>Bank Transfer:</strong> Account Name: Revival Covenant | Bank: XYZ Bank | MPESA PAYBILL: 400200 Acc No: 1076931</p>
+    <p><strong>Bank Transfer:</strong> Account Name: Revival Covenant | Bank: Co-operative Bank | MPESA PAYBILL: 400200 Acc No: 1076931</p>
   </section>
 
   <footer>
