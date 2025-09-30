@@ -61,6 +61,98 @@
     <p><strong>Mission:</strong> Empowered by the Holy Spirit, we are devoted to preaching the Word of God, equipping believers for ministry, reaching the lost with the love of Christ, and strengthening the Body of Christ through prayer, discipleship, and fellowship.</p>
     <p>Revival Covenant to the Body of Christ Ministries is a Christ-centered, Spirit-led ministry called to bring revival to the nations. We are committed to nurturing believers, restoring hope, and spreading the transformative power of the Gospel through prayer, evangelism, teaching, and community service.</p>
   </section>
+Here is a revised church profile for *Revival Covenant to the Body of Christ Ministries*, now including its location in Eldoret, Kenya. You can adjust any detail to suit your preferences.
+
+---
+
+## Revival Covenant to the Body of Christ Ministries
+
+**Church Profile**
+
+**Name:** Revival Covenant to the Body of Christ Ministries
+
+**Location:** Eldoret, Uasin Gishu County, Kenya
+(Insert specific street address or neighborhood if desired)
+
+**Vision:**
+To see individuals and communities in Eldoret and beyond transformed by the living power of Jesus Christ; to grow believers in truth, love, and maturity; and to extend God’s Kingdom through compassionate outreach and worship.
+
+**Mission:**
+
+1. Worship God and make His name known in spirit and truth.
+2. Proclaim the gospel of Jesus Christ, discipling all who believe.
+3. Equip members to live holy lives empowered by the Holy Spirit.
+4. Serve our community with compassion and justice.
+5. Anticipate Christ’s return with hope, living in readiness.
+
+**Core Values:**
+
+* Biblical authority
+* God‑centred worship
+* Holiness and sanctification
+* Unity in diversity
+* Evangelism and mission
+* Compassion & social responsibility
+* The work and presence of the Holy Spirit
+
+**Governance / Structure:**
+Led by a pastoral team and elders, accountable to one another; local congregation with active membership; ministries staffed by committed volunteers; strong emphasis on prayer, teaching, spiritual growth, fellowship, and service.
+
+---
+
+## Statement of Faith
+
+We at Revival Covenant to the Body of Christ Ministries believe and affirm the following truths:
+
+1. **The Scriptures**
+   We believe the Bible (Old and New Testaments) is the inspired, infallible, and authoritative Word of God. It is without error in the original manuscripts, the ultimate standard by which all doctrines, opinions, and practices should be judged.
+
+2. **God**
+   We believe there is one God, eternally existing in three persons: Father, Son, and Holy Spirit—each fully God, co‑equal, co‑eternal, having all the attributes of deity.
+
+3. **Jesus Christ**
+
+   * Jesus Christ is the eternal Son of God.
+   * He was conceived by the Holy Spirit, born of the virgin Mary.
+   * He lived a sinless life, performed miracles, and revealed God’s character.
+   * He died on the cross, bearing the penalty of sin as a substitutionary atonement.
+   * He bodily rose from the dead, ascended into heaven, and is now seated at the right hand of the Father.
+   * He will personally return in power and glory to judge the living and the dead, and to establish His Kingdom.
+
+4. **The Fall and Human Condition**
+   We believe that humanity was created in the image of God but fell into sin through disobedience. As a result, all people are sinful by nature and by choice, separated from God, and under divine judgment, with no capacity in themselves to save themselves.
+
+5. **Salvation**
+   Salvation is by grace alone through faith alone in Christ alone. We believe that all who repent of their sins and put their faith in Jesus Christ are justified (declared righteous), regenerated (born again), adopted into God’s family, and secure in Christ for eternity.
+
+6. **The Holy Spirit**
+   We believe in the person and work of the Holy Spirit: He convicts of sin, regenerates the believer, indwells, guides, empowers for holy living, and gifts believers for service. We believe in the baptism of the Holy Spirit as promised in Scripture, alongside evidence of Spirit‑filled life in love, holiness, and spiritual fruit.
+
+7. **The Church**
+   We believe the Church is the universal body of Christ—believers from every tribe, tongue and nation—and that Christ is the Head. We also believe in local expressions of the Church: congregations gathering for worship, teaching, fellowship, observance of ordinances (Water Baptism and the Lord’s Supper), spiritual discipline, and mission.
+
+8. **Ordinances**
+
+   * **Water Baptism:** by immersion, after repentance and faith, as an external symbol of union with Christ in His death, burial, and resurrection.
+   * **The Lord’s Supper (Communion):** a remembrance of Christ’s sacrifice, a celebration of His presence, and a proclamation of His return.
+
+9. **Sanctification & Christian Life**
+   We believe that believers are called to grow in holiness—separating from sin, pursuing righteousness, love, and obedience. Sanctification is both an act and a process—the work of God’s grace, empowered by the Holy Spirit, through spiritual disciplines (prayer, study of Scripture, fellowship, service).
+
+10. **Eternal State**
+    We believe in the bodily resurrection of all people: the saved to eternal life in the presence of God, and the unsaved to eternal conscious separation from God. We believe in the new heavens and the new earth, the holy city, and the fullness of God’s Kingdom as both present spiritually and future in fulfillment.
+
+11. **Christian Hope**
+    We believe in the imminent return of Jesus Christ. Believers live by this hope, which also motivates mission, perseverance, holy living, and faithful witness.
+
+12. **Marriage & Human Life**
+
+    * We believe marriage is God‑ordained between one man and one woman.
+    * We believe every human life is sacred, created in the image of God, deserving dignity from conception to natural death.
+
+---
+
+If you like, I can format this into a printable brochure or a one‑page version for your website with local flavour (Kenyan context) included. Do you want me to prepare that?
 
   <section id="ministries" class="ministries">
     <h2>Our Ministries</h2>
