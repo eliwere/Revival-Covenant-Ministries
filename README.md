@@ -99,7 +99,7 @@
   <section id="donate">
     <h2>Give / Donate</h2>
     <p>Your generosity helps us spread the Gospel and support communities in need.</p>
-    <p><strong>Bank Transfer:</strong> Account Name: Revival Covenant | Bank: XYZ Bank | Acc No: 123456789</p>
+    <p><strong>Bank Transfer:</strong> Account Name: Revival Covenant | Bank: XYZ Bank | MPESA PAYBILL: 400200 Acc No: 1076931</p>
   </section>
 
   <footer>
